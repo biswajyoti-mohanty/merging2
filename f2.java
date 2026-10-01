@@ -3,6 +3,7 @@ public class f2 {
     System.out.println("1st file for feature");
        System.out.println("1st file for feature");
        System.out.println("yfg");
-    System.out.println("efwd");
+       System.out.println("efwd");
+    System.out.println("wecwfe");
    } 
 }
